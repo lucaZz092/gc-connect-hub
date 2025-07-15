@@ -33,7 +33,7 @@ export function LoginForm({ onLogin }: LoginFormProps) {
           </div>
           <div>
             <CardTitle className="text-2xl font-bold bg-gradient-to-r from-primary to-accent bg-clip-text text-transparent">
-              Sistema GC
+              Overview GCs
             </CardTitle>
             <p className="text-muted-foreground mt-2">
               Faça login para acessar o sistema

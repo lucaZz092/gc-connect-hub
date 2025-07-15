@@ -31,10 +31,10 @@ export function Header({ userRole, userName }: HeaderProps) {
       <div className="flex items-center justify-between">
         <div>
           <h1 className="text-2xl font-bold bg-gradient-to-r from-primary to-accent bg-clip-text text-transparent">
-            Sistema GC
+            Overview GCs
           </h1>
           <p className="text-sm text-muted-foreground">
-            Gestão de Grupos de Células
+            Gestão de Grupos de Crescimento
           </p>
         </div>
 

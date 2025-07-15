@@ -24,7 +24,7 @@ export function Sidebar({ activeTab, onTabChange, userRole }: SidebarProps) {
 
     if (userRole === "coordinator" || userRole === "pastor") {
       baseItems.push(
-        { id: "gcs", label: "Grupos de Células", icon: Users },
+        { id: "gcs", label: "Grupos de Crescimento", icon: Users },
         { id: "reports", label: "Relatórios", icon: BarChart3 }
       );
     }

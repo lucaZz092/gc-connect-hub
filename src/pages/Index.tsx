@@ -44,7 +44,7 @@ const Index = () => {
       case "gcs":
         return (
           <div className="space-y-6">
-            <h2 className="text-3xl font-bold tracking-tight">Grupos de Células</h2>
+            <h2 className="text-3xl font-bold tracking-tight">Grupos de Crescimento</h2>
             <p className="text-muted-foreground">Gestão de GCs será implementada aqui</p>
           </div>
         );
